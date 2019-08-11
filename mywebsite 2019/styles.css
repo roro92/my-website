@@ -6,7 +6,7 @@ font-family: 'Open Sans Condensed', sans-serif;
 
 .container {
     display: grid;
-    grid-template-columns: 1fr; /* 1fr stands for 1 fractional unit */
+    grid-template-columns: 1fr; 
 }
 
 /* Nav styles */
